@@ -1,5 +1,6 @@
 # Blue Alien Game
 - Free Source Code.
+- Free to Play https://blue-alien-by-jundellagbo.netlify.com/
 
 ### Donations
 
