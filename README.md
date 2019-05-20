@@ -1,5 +1,5 @@
 # Blue Alien Game
-- Construct 2 Platform
+- Construct 2
 - Free to Play https://blue-alien-by-jundellagbo.netlify.com/
 
 ### Donations
